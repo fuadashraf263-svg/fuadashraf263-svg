@@ -11,9 +11,11 @@ Based in Bangladesh; available for full-time remote work.
 ## Education and exam results
 
 - **BSc, Electrical and Electronics Engineering**, Atish Dipankar University of Science & Technology, 2019–2022; CGPA 3.75/4.00. The three transcript pages are available below with identity numbers and signatures redacted.
-- **IELTS Academic**, overall band 7.0 (CEFR C1). This is the original score report with candidate identifiers, personal details, test-centre/date fields, and the administrator signature redacted; the authentic band scores and report layout remain visible.
+- **IELTS Academic**, overall band 7.0 (CEFR C1), taken in 2022. This is the authentic score report with candidate identifiers, personal details, test-centre/date fields, and the administrator signature redacted; the band scores and report layout remain visible. This historical result is not presented as a current test score.
+- **Duolingo English Test**, 2023 report: overall 120; Literacy 125, Comprehension 130, Conversation 115, Production 105. The authentic certificate has the test taker's photo/name, exact date, and verification URL/ID redacted. This is a historical result, not a claim of current validity.
 
 [Open the IELTS score report](credentials/IELTS_Academic_Public_Redacted.png)  
+[Open the Duolingo English Test score report](credentials/Duolingo_English_Test_Public_Redacted.png)  
 [Transcript page 1](credentials/Academic_Transcript_Public_Redacted_Page1.png) · [page 2](credentials/Academic_Transcript_Public_Redacted_Page2.png) · [page 3](credentials/Academic_Transcript_Public_Redacted_Page3.png)
 
 ## Recruitment experience
@@ -38,3 +40,4 @@ These are explicitly labeled practice artifacts, not client deliveries:
 
 - [Recruiting workflow case study](./recruiting-work-sample.md)
 - [Cross-border recruitment operations sample](./cross-border-operations-sample.md)
+
