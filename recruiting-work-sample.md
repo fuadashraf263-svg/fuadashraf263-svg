@@ -2,7 +2,7 @@
 
 **Portfolio demonstration | Created November 2026**
 
-This self-directed sample demonstrates how I organize a role intake, candidate search, evidence-based screening, and recruiter handoff. The vacancy and all candidate examples below are fictional. This is not client work and does not represent actual placements or hands-on use of an ATS. It was developed with AI assistance and reviewed as a practice artifact.
+This self-directed sample demonstrates how I organize a role intake, candidate search, evidence-based screening, and recruiter handoff. The vacancy and all candidate examples below are fictional. This is not client work and does not represent actual placements or hands-on use of an ATS. It was prepared with AI assistance; all example content is synthetic.
 
 ## 1. Fictional role intake
 
