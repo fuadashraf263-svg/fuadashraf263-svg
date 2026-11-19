@@ -35,3 +35,8 @@ Performed electrical installation, fault diagnosis, and technical maintenance.
 ## Work focus
 
 I bring cross-border recruitment experience alongside an electrical-engineering background and independent software/engineering work. I am currently focused on remote recruiting and talent-coordination roles, including technical hiring.
+
+
+## Portfolio demonstration
+
+[Recruiting workflow case study](./recruiting-work-sample.md) — a fictional practice sample showing structured intake, sourcing, evidence-based screening, and documentation.
