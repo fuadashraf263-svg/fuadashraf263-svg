@@ -15,7 +15,7 @@ Based in Bangladesh; available for full-time remote work.
 - **Duolingo English Test**, 2023 report: overall 120; Literacy 125, Comprehension 130, Conversation 115, Production 105. The authentic certificate has the test taker's photo/name, exact date, and verification URL/ID redacted. This is a historical result, not a claim of current validity.
 
 [Open the IELTS score report](credentials/IELTS_Academic_Public_Redacted.png)  
-[Open the Duolingo English Test score report](credentials/Duolingo_English_Test_Public_Redacted.png)  
+[Open the Duolingo English Test score report](credentials/Duolingo_English_Test_Public_Redacted.png)
 [Transcript page 1](credentials/Academic_Transcript_Public_Redacted_Page1.png) · [page 2](credentials/Academic_Transcript_Public_Redacted_Page2.png) · [page 3](credentials/Academic_Transcript_Public_Redacted_Page3.png)
 
 ## Recruitment experience
@@ -40,4 +40,3 @@ These are explicitly labeled practice artifacts, not client deliveries:
 
 - [Recruiting workflow case study](./recruiting-work-sample.md)
 - [Cross-border recruitment operations sample](./cross-border-operations-sample.md)
-
