@@ -11,7 +11,7 @@ Based in Bangladesh; available for full-time remote work.
 ## Education and exam results
 
 - **BSc, Electrical and Electronics Engineering**, Atish Dipankar University of Science & Technology, 2019–2022; CGPA 3.75/4.00. The three transcript pages are available below with identity numbers and signatures redacted.
-- **IELTS Academic**, overall band 7.0 (CEFR C1). This is a redacted image of the original score report; candidate identifiers and personal details are covered.
+- **IELTS Academic**, overall band 7.0 (CEFR C1). This is the original score report with candidate identifiers, personal details, test-centre/date fields, and the administrator signature redacted; the authentic band scores and report layout remain visible.
 
 [Open the IELTS score report](credentials/IELTS_Academic_Public_Redacted.png)  
 [Transcript page 1](credentials/Academic_Transcript_Public_Redacted_Page1.png) · [page 2](credentials/Academic_Transcript_Public_Redacted_Page2.png) · [page 3](credentials/Academic_Transcript_Public_Redacted_Page3.png)
