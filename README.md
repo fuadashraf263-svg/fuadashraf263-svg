@@ -1,24 +1,24 @@
 # Fuad Ashraf
 
-**International recruitment | Candidate sourcing and screening | Client coordination and documentation**
+**Cross-border recruitment operations | Client coordination | Visa and recruitment document checks**
 
 Based in Bangladesh. Seeking full-time remote recruiter or talent acquisition work and available immediately for U.S. Eastern Time hours. [LinkedIn profile](https://www.linkedin.com/in/fuad-ashraf-083772407/)
 
 ## Recruitment experience
 
-**Recruitment Executive, Suma Overseas | June 2022 - September 2026**
+**Recruitment operations, Suma Overseas | June 2022 - September 2026**
 
-Supported cross-border recruitment for employer clients and candidates in Bangladesh and European markets, including Poland, Hungary, Romania, Croatia, the Czech Republic, and other EU destinations. Work included sourcing and screening candidate profiles, coordinating client communication and candidate progress, checking recruitment and visa-related documents, preparing Europass CVs, presenting candidate profiles, and organizing records and follow-up. Supported skilled-worker, logistics and warehouse, factory and production, hospitality, and office and administration roles.
+Coordinated with clients and handled recruitment-related management, visa-related document checks, and verification of candidate and administrative documents. Used computer software and digital records to support those workflows.
 
 **Independent Recruitment Specialist | November 2022 - Present**
 
-Independent work focused on structured candidate records and documentation, candidate-screening processes, and international professional communication. This role overlaps with my employment history and is listed separately.
+Independent recruitment work alongside my employment history. My focus includes client coordination and recruitment documentation. The role is listed separately to make the overlapping dates clear.
 
 ## Engineering and software work
 
 **Full Stack Engineer, independent projects | November 2022 - Present**
 
-Independent software and engineering projects involving software architecture, AI-assisted engineering workflows, technical specifications, reproducible testing procedures, Git, Linux development tools, and numerical methods. This describes self-directed project and research work.
+Self-directed software and engineering work. The portfolio currently contains the recruitment workflow samples below; they are practice artifacts and do not establish client software delivery or production engineering experience.
 
 **Electrical Engineer, Relation Holdings Ltd. | April 2020 - November 2022**
 
@@ -34,9 +34,11 @@ Performed electrical installation, fault diagnosis, and technical maintenance.
 
 ## Work focus
 
-I bring cross-border recruitment experience alongside an electrical-engineering background and independent software/engineering work. I am currently focused on remote recruiting and talent-coordination roles, including technical hiring.
+I bring cross-border recruitment experience alongside an electrical-engineering background and self-directed software/engineering work. I am currently focused on remote recruiting and talent-coordination roles, including technical hiring.
 
 
 ## Portfolio demonstration
 
-[Recruiting workflow case study](./recruiting-work-sample.md) — a fictional practice sample showing structured intake, sourcing, evidence-based screening, and documentation.
+[Recruiting workflow case study](./recruiting-work-sample.md) — a fictional practice sample showing structured intake, search planning, evidence-based screening, and documentation.
+
+[Cross-border recruitment operations sample](./cross-border-operations-sample.md) — a fictional practice sample showing client requirement tracking, document completeness checks, status updates, and careful record handling.
