@@ -7,6 +7,7 @@ Based in Bangladesh; available for full-time remote work.
 
 - [EngineAI Studio](https://github.com/fuadashraf263-svg/engineai-studio) — actual first-party Python source for a local engineering assistant and CAE workbench, with a browser worker. Prototype; solver/provider availability depends on setup, and its outputs are not certified design results.
 - [Axiomata reference compiler](https://github.com/fuadashraf263-svg/axiomata-reference-compiler) — actual Python and C++20 source for a bounded engineering language and exact-quantity reference compiler, with specifications, examples, and conformance fixtures. It is a compiler prototype, not a physically qualified engineering workflow.
+- [CRFCE-R field-solved design study](https://fuadashraf263-svg.github.io/crfce-r-field-solved-design/) — interactive 12-slot, 11-tooth reluctance-machine study; original HTML source is in the [public repository](https://github.com/fuadashraf263-svg/crfce-r-field-solved-design). It is a design study, not an independently validated or build-ready motor.
 
 ## Education and exam results
 
