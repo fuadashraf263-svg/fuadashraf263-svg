@@ -41,3 +41,4 @@ These are explicitly labeled practice artifacts, not client deliveries:
 
 - [Recruiting workflow case study](./recruiting-work-sample.md)
 - [Cross-border recruitment operations sample](./cross-border-operations-sample.md)
+- [Recruiting Operations Workbench](https://github.com/fuadashraf263-svg/recruiting-operations-workbench) — an AI-assisted practice dashboard using fictional candidate records to demonstrate pipeline tracking, follow-up and interview-scheduling gap flags, duplicate review, search, and CSV export. It is not an ATS or client system, and it does not claim to reproduce the software used at Suma Overseas.
